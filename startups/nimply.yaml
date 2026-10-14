@@ -1,0 +1,60 @@
+name: Nimply
+tagline: AI social media management with hireable task-specific agents
+description: >-
+  Nimply is an AI social media management platform where users hire
+  task-specific AI agents: customer support replies, lead capture, comment
+  moderation, LinkedIn ghostwriting, carousel design, content repurposing,
+  video clipping and trend scouting: inside a full management stack: a visual
+  calendar auto-publishing to nine-plus networks, a unified inbox with AI
+  triage, a node-based automation canvas, an AI content studio, cross-channel
+  analytics, a public API and MCP server, plus iOS and Android apps. Agents
+  draft and humans approve before anything publishes, and a free plan with no
+  card required is available.
+problem: Social media teams juggle posting, replies and content creation across many networks with fragmented tools.
+audience:
+  - Social media managers and marketing teams
+  - Creators and agencies managing multiple accounts
+website: https://nimply.io/
+access:
+  - kind: signup
+    url: https://nimply.io/
+categories:
+  - marketing
+  - ai-and-agents
+stage: live
+pricing:
+  model: freemium
+company:
+  name: Nimply
+  relationship: independent
+platforms:
+  - web
+  - ios
+  - android
+links:
+  - kind: blog
+    url: https://nimply.io/blog
+logo:
+  path: logo.png
+  alt: The Nimply logo, a rounded square mark with a stylized N
+gallery:
+  - path: product.png
+    alt: The Nimply platform overview showing the social media management dashboard
+sources:
+  - url: https://nimply.io/
+    title: Nimply official website
+  - url: https://nimply.io/blog/product-hunt-launch-case-study
+    title: Nimply Product Hunt launch case study
+  - url: https://www.producthunt.com/products/nimply
+    title: Nimply on Product Hunt
+launch:
+  title: Nimply launches on Product Hunt
+  summary: Nimply publicly launched its AI social media management platform on Product Hunt after its May 2026 platform launch.
+  occurred_on:
+    precision: day
+    value: "2026-09-23"
+  date_basis: effective
+  source:
+    url: https://nimply.io/blog/product-hunt-launch-case-study
+    title: Nimply Product Hunt launch case study
+    locator: Opening paragraph, which states the 23 September 2026 launch date
