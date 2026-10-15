@@ -1,0 +1,59 @@
+# AdAI — facts verified 2026-10-15 from joinad.ai and the 2026-09-11 launch press release.
+name: AdAI
+tagline: Clone winning ads with your product and pricing
+description: >-
+  AdAI is an AI ad agency that remakes finished digital ads using a company's
+  own brand assets. A marketer uploads an ad that is already winning, picks a
+  product from their dashboard, and gets an on-brand version back in one click,
+  then refines it through chat. The platform pulls product names, pricing and
+  details from the company's own records, and adds guardrails for brand
+  enforcement and legal compliance, so the output is ready to run instead of a
+  draft that needs fixing.
+problem: >-
+  Marketers need fresh on-brand ad creative at scale. Generic AI tools produce
+  mismatched one-offs that still need design resources, while creative agencies
+  are expensive and slow.
+audience:
+  - Marketers
+  - Founders
+  - Agencies
+website: https://joinad.ai/
+access:
+  - kind: demo
+    url: https://joinad.ai/book
+categories:
+  - marketing
+  - ai-and-agents
+stage: beta
+pricing:
+  model: usage_based
+company:
+  name: AdAI, Inc.
+  relationship: independent
+location:
+  country: US
+  city: New York
+platforms:
+  - web
+links:
+  - kind: press
+    url: https://www.newsfilecorp.com/release/313248
+logo:
+  path: logo.png
+  alt: AdAI logo mark, geometric blocks in blue, white, red and yellow on a dark background
+sources:
+  - url: https://joinad.ai/
+    title: AdAI official product website
+  - url: https://www.newsfilecorp.com/release/313248
+    title: AdAI launches to automate digital ad creation with AI agents
+launch:
+  title: AdAI launches its AI ad creation platform
+  summary: AdAI announced the public launch of its platform on 11 September 2026.
+  occurred_on:
+    precision: day
+    value: "2026-09-11"
+  date_basis: effective
+  source:
+    url: https://www.newsfilecorp.com/release/313248
+    title: AdAI launches to automate digital ad creation with AI agents
+    locator: The release is dated September 11, 2026 and announces the platform launch.
